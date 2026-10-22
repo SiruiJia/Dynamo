@@ -3,7 +3,7 @@
 
 A PIM accelerator framework for continuous-coupled neural networks (CCNNs), with a neighborhood-coupled dataflow also applicable to pulse-coupled neural networks (PCNNs).
 
-**Status:** This work is currently under review at **ACM Transactions on Architecture and Code Optimization (TACO)**. Stay tuned for updates!
+**Status:** This work is currently get a major revision at **ACM Transactions on Architecture and Code Optimization (TACO)**. Stay tuned for updates!
 
 ## Highlights
 
